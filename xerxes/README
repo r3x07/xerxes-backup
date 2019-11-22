@@ -2,11 +2,13 @@
 XERXES - the most powerful DoS tool
 git clone this repo
 Open Terminal and type these commands
+<hr>
 
-cd Desktop
-git clone https://github.com/deadfishhackers/xerxes-backup.git
-cd xerxes-backup
-python install.py
+<li>cd Desktop<li>
+<li>git clone https://github.com/deadfishhackers/xerxes-backup.git<li>
+<li>cd xerxes-backup</li>
+<li>python install.py</li>
+<hr>
 
 
 USAGE : ./xerxes www.fakesite.com 80
