@@ -1,6 +1,6 @@
 import os
-os.system("apt install php")
+os.system("sudo apt install php")
 print("Installing XERXES")
 os.system("gcc xerxes.c -o xerxes")
-os.system("php server.php")
+os.system("sudo php server.php")
 print("XERXES Installed, you can run it by doing - sudo ./xerxes fakesite.com 80")
