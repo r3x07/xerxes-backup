@@ -4,7 +4,7 @@ git clone this repo
 Open Terminal and type these commands
 
 
-cd Desktop
+cd ~/Desktop
 git clone https://github.com/deadfishhackers/xerxes-backup.git
 cd xerxes-backup/xerxes/
 python install.py
